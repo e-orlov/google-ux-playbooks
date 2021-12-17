@@ -22,4 +22,4 @@ Collection of best practices to delight your users
 - [💉Healthcare](./playbooks/healthcare.pdf)
 - [🧲 Lead Gen](./playbooks/leadgen.pdf)
 - [📰 News and content](./playbooks/news.pdf)
-- [☠ Quality Rategr Guidelines Oktober 2021](./playbooks/searchqualityevaluatorguidelines.pdf)
+- [☠ Search Quality Evaluator Guidelines, Oktober 2021](./playbooks/searchqualityevaluatorguidelines.pdf)
