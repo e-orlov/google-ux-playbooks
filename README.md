@@ -1,13 +1,8 @@
 <h1 align="center">
   <br>
-  <img width="300px" src="logo.png" alt="google ux playbooks"
-    title="Google UX playbooks (Retail, Finance, Automobile, Travel, Real Estate, Healthcare, Lead Gen, News and content)" />
-    <a
-    href="https://twitter.com/intent/tweet?text=Google UX playbooks&url=https://github.com/alewin/google-ux-playbooks&hashtags=ux,google,uxplaybooks">
-    <br />
-    <img alt="Tweet" src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" />
-  </a>
-</h1>
+  <img width="300px" src="logo.png" alt="google ux playbooks + search quality evaluator guidelines"
+    title="Google UX playbooks (Retail, Finance, Automobile, Travel, Real Estate, Healthcare, Lead Gen, News and content) and Search Quality Evaluator Guidelines" />
+    </h1>
 
 
 # Google UX Playbooks
